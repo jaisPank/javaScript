@@ -21,5 +21,8 @@ Topic
 		      
 		      
 7. Array and Loops : Creating array , adding element in array, studying property of array. 
-	             Looping through array , using loop and forEach methods           
+	             Looping through array , using loop and forEach methods  
+	             
+	             
+8. Advance Function : Understanding querySelector, setTimeout,forEach,Regualar Function vs Arrow Functions         
            
